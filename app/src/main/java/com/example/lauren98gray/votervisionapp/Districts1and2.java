@@ -11,3 +11,4 @@ public class Districts1and2 extends AppCompatActivity {
         setContentView(R.layout.candidate_activity);
     }
 }
+
